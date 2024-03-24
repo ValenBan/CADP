@@ -1,0 +1,45 @@
+Ford Fiesta
+001
+25
+5
+Ford Fiesta
+003
+19
+15
+Ford Fiesta
+005
+88
+7
+Ford Fiesta
+007
+33
+25
+Ford Fiesta
+009
+73
+28
+Ford Fiesta
+011
+51
+25
+Honda Civic
+004
+77
+20
+Honda Civic
+008
+16
+3
+Toyota Corolla
+002
+42
+10
+Toyota Corolla
+006
+61
+12
+Toyota Corolla
+010
+99
+17
+ZZZ
